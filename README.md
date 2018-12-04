@@ -1,5 +1,7 @@
 Implementação do desafio Desafio Charlie:
 
+O microsite foi criado com a biblioteca Javascrit React
+
 Abaixo uma prévia da descrição do desafio. Todos os detalhes estao no endereço 
 https://github.com/hurbcom/challenge-charlie
 
